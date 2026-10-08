@@ -1,0 +1,8 @@
+node_modules/
+.env*
+!.env.example
+config.local.json
+.auth/
+reports/
+.simulator-stop
+*.log
