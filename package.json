@@ -1,0 +1,14 @@
+{
+  "name": "hubsteria-simulator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "plan": "node src/cli.mjs plan",
+    "login": "node src/cli.mjs login",
+    "simulate": "node src/cli.mjs run"
+  },
+  "dependencies": { "playwright": "^1.56.0" }
+}

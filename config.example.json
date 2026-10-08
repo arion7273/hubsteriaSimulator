@@ -1,0 +1,10 @@
+{
+  "target": "https://hubsteriacare.com/app",
+  "facilityName": "HubsteriaCare demo facility",
+  "facilityId": "REPLACE_WITH_DEMO_FACILITY_UUID",
+  "organizationId": "REPLACE_WITH_DEMO_ORGANIZATION_UUID",
+  "users": ["caregiver-1", "caregiver-2"],
+  "rounds": 2,
+  "pauseMs": 2000,
+  "maxPageMs": 10000
+}
