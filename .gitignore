@@ -4,4 +4,5 @@ node_modules/
 config.local.json
 .auth/
 reports/
+.simulator-stop
 *.log

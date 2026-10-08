@@ -1,5 +1,5 @@
 # Hubsteria Simulator
 
-Separate browser simulator for HubsteriaCare. Start with [SETUP.md](SETUP.md).
+Standalone Playwright simulator for [HubsteriaCare](https://hubsteriacare.com/app), restricted to **HubsteriaCare demo facility**. See [SETUP.md](SETUP.md) for local runs, two staff sessions, and reporting.
 
-Version 0.1: two-user demo-facility browser baseline. Medication writes are a planned next phase; no live simulation has been verified yet.
+Version 0.2: concurrent Charting Sheet medication verification, collision testing, and ADL/vitals/notes pilots.
